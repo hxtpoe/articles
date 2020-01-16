@@ -9,3 +9,5 @@ To be stable, they run maximimum capacity if they don't know what's going on. Th
 
 1. https://blog.softwaremill.com/who-and-why-uses-apache-kafka-10fd8c781f4d 
 Who and how use Kafka. Presentation with numbers and usecases. I like that.
+
+1. http://degoes.net/articles/zio-threads It looks like ZIO is awesowe in terms of thread management, use this for High-performance application. It has abstraction for blocking and non-blocking tasks. 
