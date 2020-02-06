@@ -15,3 +15,11 @@ Who and how use Kafka. Presentation with numbers and usecases. I like that.
 1. https://heikoseeberger.rocks/2020/01/07/2020-01-07-dotty-4/ scala3 strictEquality Foo() != Option(Foo())
 
 1. https://docs.scala-lang.org/overviews/collections-2.13/performance-characteristics.html scala structures performance characteristics
+
+1. https://x-team.com/blog/loss-of-motivation/ awesome - If you surround yourself with negative, cynical people, you will adopt their mindset and turn negative and cynical too. This, in turn, will make it harder to motivate yourself to do anything.
+
+1. https://medium.com/wix-engineering/5-pitfalls-to-avoid-when-starting-to-work-with-zio-adefdc7d2d5c ZIO looks promising , green threads, referencial transparency, zio.effects
+
+1. https://blog.markvincze.com/shadow-mirroring-with-envoy/ mirroring , envoy
+
+1. https://medium.com/jaegertracing/using-jaeger-with-eclipse-che-d0581c7da431 , https://www.eclipse.org/che/features/ haven't tried it yet, but it looks promising. OpenTracing, Jaeger , Che (he he)
