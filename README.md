@@ -23,3 +23,7 @@ Who and how use Kafka. Presentation with numbers and usecases. I like that.
 1. https://blog.markvincze.com/shadow-mirroring-with-envoy/ mirroring , envoy
 
 1. https://medium.com/jaegertracing/using-jaeger-with-eclipse-che-d0581c7da431 , https://www.eclipse.org/che/features/ haven't tried it yet, but it looks promising. OpenTracing, Jaeger , Che (he he)
+
+1. https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html line cache, scheduling In Go
+
+1. https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html pointers go
