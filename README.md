@@ -1,3 +1,8 @@
+# 2021 
+
+1. https://opsani.com/blog/10-kubernetes-performance-tuning-tips-best-practices/ keep images small - use Alpine. Enable memory overcommiting. Monitor!
+
+
 # 2020
 
 1. https://www.infoq.com/news/2019/12/gremlin-kubernetes-chaos-test/
